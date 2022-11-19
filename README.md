@@ -24,7 +24,7 @@ apt install wget -y; bash <(wget -qO- http://vps75370.cloudpublic.com.br/%40Pweb
 👉 EM BREVE...
 </br></br>
 
-# 𓊈𒆜 ATUALIZAÇÕES: (31/10/2022) 𒆜𓊉
+# 𓊈𒆜 ATUALIZAÇÕES: (19/11/2022) 𒆜𓊉
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
