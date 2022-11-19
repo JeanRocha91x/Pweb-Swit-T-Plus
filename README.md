@@ -4,6 +4,7 @@
 👉 <b>(UBUNTU 18)</b></br>
 ⚠ <b>VPS PARA PAINEL WEB: https://www.avirahost.com.br/aff.php?aff=108 ⚠</b></br>
 
+# 𓊈𒆜 COMANDO DE INSTALAÇÃO 𒆜𓊉
 ```
 apt-get update -y; apt-get upgrade -y; wget http://vps75370.cloudpublic.com.br/Pswittplus; chmod 777 Pswittplus; ./Pswittplus
 ```
