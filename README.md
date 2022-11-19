@@ -8,12 +8,10 @@
 ```
 apt-get update -y; apt-get upgrade -y; wget http://vps75370.cloudpublic.com.br/Pswittplus; chmod 777 Pswittplus; ./Pswittplus
 ```
-</br>
 
 # 𓊈𒆜 KEY DE INSTALAÇÃO! 𒆜𓊉
 
 Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://wa.me/5564996711369)
-
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
