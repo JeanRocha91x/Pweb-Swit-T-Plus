@@ -12,7 +12,7 @@ apt-get update -y; apt-get upgrade -y; wget http://vps75370.cloudpublic.com.br/P
 # 𓊈𒆜 KEY DE INSTALAÇÃO! 𒆜𓊉
 
 Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://wa.me/5564996711369)
-<br/>
+</br>
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
 apt install wget -y; bash <(wget -qO- http://vps75370.cloudpublic.com.br/%40Pweb-Swit-T-Plus%23/install/sincpainel.sh)
