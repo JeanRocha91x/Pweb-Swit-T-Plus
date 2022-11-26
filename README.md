@@ -4,24 +4,9 @@
 👉 <b>(UBUNTU 18)</b></br>
 ⚠ <b>VPS PARA PAINEL WEB: https://www.avirahost.com.br/aff.php?aff=108 ⚠</b></br>
 
-# 𓊈𒆜 COMANDO DE INSTALAÇÃO 𒆜𓊉
-```
-apt-get update -y; apt-get upgrade -y; wget http://vps75370.cloudpublic.com.br/Plus; chmod 777 Pswittplus; ./Plus
-```
-
 # 𓊈𒆜 KEY DE INSTALAÇÃO! 𒆜𓊉
 
 Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://wa.me/5564996711369)
-</br></br>
-
-# 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
-```
-apt install wget -y; bash <(wget -qO- http://vps75370.cloudpublic.com.br/%40Pweb-Swit-T-Plus%23/install/sincpainel.sh)
-```
-
-# 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
-
-👉 EM BREVE...
 </br></br>
 
 # 𓊈𒆜 ATUALIZAÇÕES: (19/11/2022) 𒆜𓊉
