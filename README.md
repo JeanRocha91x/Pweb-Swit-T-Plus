@@ -52,6 +52,9 @@ Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://
 
 13- Alteração nas imagens dos apps e avatar
 (Na pagina de personalizar pode troca essas imagens)
+
+14- Checker CloudFlare
+(verificar se a SNI ainda está online e pegando)
 ```
 
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
