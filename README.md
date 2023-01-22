@@ -9,7 +9,7 @@
 Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://wa.me/5564996711369)
 </br></br>
 
-# 𓊈𒆜 ATUALIZAÇÕES: (19/11/2022) 𒆜𓊉
+# 𓊈𒆜 ATUALIZAÇÕES: (21/01/2023) 𒆜𓊉
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
