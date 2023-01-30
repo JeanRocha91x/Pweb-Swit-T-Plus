@@ -9,7 +9,7 @@
 Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://wa.me/5564996711369)
 </br></br>
 
-# 𓊈𒆜 ATUALIZAÇÕES: (21/01/2023) 𒆜𓊉
+# 𓊈𒆜 ATUALIZAÇÕES: (30/01/2023) 𒆜𓊉
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
@@ -55,6 +55,9 @@ Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://
 
 14- Checker CloudFlare
 (verificar se a SNI ainda está online e pegando)
+
+15- Teste Cliente
+(Correção, os testes duram 1dia)
 ```
 
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
